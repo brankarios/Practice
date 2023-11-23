@@ -1,2 +1,2 @@
 # Practice
-This repository contains code wrote for practicing coding (C++, Java, Python)
+This repository contains code wrote for practicing coding and leetcode problems (C++, Java, Python)
