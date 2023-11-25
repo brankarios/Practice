@@ -1,5 +1,11 @@
 //Programa que suma los numeros del 1 hasta N
 
+
+/* Comentario
+ * de varias
+ * líneas
+ */
+
 import java.util.Scanner;
 
 public class test2 {
@@ -12,8 +18,11 @@ public class test2 {
 
         int counter = 2;
 
+        //Al escribir sout y apretar el tabulador, se escribirá automáticamente System.out.println()
+
         System.out.println("Introduzca un numero entero mayor que 0: ");
 
+        
         int number = sc.nextInt();
 
         if(number < 1){
