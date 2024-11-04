@@ -1,2 +1,2 @@
 # Practice
-This repository contains code wrote for practicing coding and leetcode problems
+This repository contains code wrote for practicing coding in some college subjects
